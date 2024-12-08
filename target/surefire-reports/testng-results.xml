@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-08T16:34:13 IST" name="Suite" finished-at="2024-12-08T16:34:17 IST" duration-ms="3407">
+    <groups>
+    </groups>
+    <test started-at="2024-12-08T16:34:13 IST" name="Test" finished-at="2024-12-08T16:34:17 IST" duration-ms="3407">
+      <class name="com.stc.Test21.NewTest">
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.stc.Test21.NewTest@36d585c]" started-at="2024-12-08T16:34:11 IST" name="tearUp" finished-at="2024-12-08T16:34:13 IST" duration-ms="1922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method signature="f()[pri:0, instance:com.stc.Test21.NewTest@36d585c]" started-at="2024-12-08T16:34:13 IST" name="f" finished-at="2024-12-08T16:34:17 IST" duration-ms="3317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.stc.Test21.NewTest@36d585c]" started-at="2024-12-08T16:34:17 IST" name="tearDown" finished-at="2024-12-08T16:34:17 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.stc.Test21.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
